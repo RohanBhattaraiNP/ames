@@ -12,65 +12,46 @@
             "@type": "Person",
             "givenName": "Thomas E",
             "familyName": "Morrell",
-            "affiliation": {
-                "@type": "Organization",
-                "name": "Caltech Library"
-            },
+            "affiliation": {"@type": "Organization", "name": "Caltech Library"},
             "email": "tmorrell@caltech.edu",
-            "@id": "https://orcid.org/0000-0001-9266-5146"
+            "@id": "https://orcid.org/0000-0001-9266-5146",
         },
         {
             "@type": "Person",
             "givenName": "Robert",
             "familyName": "Doiel",
-            "affiliation": {
-                "@type": "Organization",
-                "name": "Caltech Library"
-            },
+            "affiliation": {"@type": "Organization", "name": "Caltech Library"},
             "email": "rsdoiel@caltech.edu",
-            "@id": "https://orcid.org/0000-0003-0900-6903"
+            "@id": "https://orcid.org/0000-0003-0900-6903",
         },
         {
             "@type": "Person",
             "givenName": "Rohan",
             "familyName": "Bhattarai",
-            "affiliation": {
-                "@type": "Organization",
-                "name": "Caltech Library"
-            },
+            "affiliation": {"@type": "Organization", "name": "Caltech Library"},
             "email": "rbhattar@caltech.edu",
-            "@id": "https://orcid.org/0009-0007-0323-4733"
+            "@id": "https://orcid.org/0009-0007-0323-4733",
         },
         {
             "@type": "Person",
             "givenName": "Elizabeth",
             "familyName": "Won",
-            "affiliation": {
-                "@type": "Organization",
-                "name": "Caltech"
-            },
-            "@id": "https://orcid.org/0009-0002-2450-6471"
-        }
+            "affiliation": {"@type": "Organization", "name": "Caltech"},
+            "@id": "https://orcid.org/0009-0002-2450-6471",
+        },
     ],
     "developmentStatus": "active",
     "downloadUrl": "https://github.com/caltechlibrary/ames/archive/v1.1.4.zip",
-    "keywords": [
-        "GitHub",
-        "metadata",
-        "software"
-    ],
+    "keywords": ["GitHub", "metadata", "software"],
     "programmingLanguage": "Python",
     "maintainer": [
         {
             "@id": "https://orcid.org/0000-0001-9266-5146",
             "@type": "Person",
-            "affiliation": {
-                "@type": "Organization",
-                "name": "Caltech Library"
-            },
+            "affiliation": {"@type": "Organization", "name": "Caltech Library"},
             "familyName": "Morrell",
-            "givenName": "Thomas E."
+            "givenName": "Thomas E.",
         }
     ],
-    "identifier": "10.22002/qc63a-hvq14"
+    "identifier": "10.22002/qc63a-hvq14",
 }
