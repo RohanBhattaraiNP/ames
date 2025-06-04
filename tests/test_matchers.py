@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')
 
 from ames.matchers.caltechauthors import add_related_identifiers_from_csv
 
-token = "0UrVehnBSM9c7DQZZCM2EtB4lpuEwbTiLue6rf0Vme3lnzswlMA9whjJbmhX"
+token = os.environ.get("RDMTOK")
 CSV_FILE = "test.csv"
 
 def load_test_data(from_csv=True):
